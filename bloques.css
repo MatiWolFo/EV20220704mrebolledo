@@ -1,0 +1,56 @@
+/*CSS STYLES*/
+/*UNIVERSAL SELECTOR USED TO RESET CSS*/
+/*HEX USED INSTEAD OF TAGS*/
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#wrapper {
+  width: 960px;
+  background-color: #767577;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 0px auto;
+}
+#header {
+  height: 150px;
+  width: 930px;
+  background-color: #750774
+  ;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+#navigation {
+  height: 300px;
+  width: 190px;
+  background-color: #ffb7c5;
+  margin: 15px;
+  display: inline-block;
+}
+#main_content {
+  height: 400px;
+  width: 700px;
+  background-color: #1718f8;
+  margin-top: 15px;
+  display: inline-block;
+  padding: 10px;
+  vertical-align: top;
+}
+.subcontents {
+  height: 190px;
+  /*WIDTH MODIFIED TO MATCH IMAGE*/
+  width: 205px;
+  background-color: #fffd3d;
+  /*MARGIN MODIFIED TO MATCH SEPARATION*/
+  margin: 8px;
+  display: inline-block;
+}
+#advertisement {
+/*WIDTH MODIFIED TO MATCH IMAGE*/
+  height: 120px;
+  width: 645px;
+  background-color: #047419;
+  /*MARGINS MODIFIED TO MATCH ALIGN*/
+  margin-left: 8px;
+  margin-top: 10px;
+}
