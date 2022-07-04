@@ -1,1 +1,5 @@
 # EV20220704mrebolledo
+## CHANGELOG
+### DATE 20220704
+- Files added
+## END OF COMMENTS
